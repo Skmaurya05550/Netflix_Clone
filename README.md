@@ -1,5 +1,8 @@
 # Netflix Clone
 
+![17315212442498416629419913344126](https://github.com/user-attachments/assets/a0587b5c-887c-4ea0-ad9f-ed02dc3f19f8)
+
+
 ## Project Overview
 This project is a responsive clone of the Netflix web interface, designed with modern web technologies to replicate the aesthetic and layout of the popular streaming platform. It includes various sections such as a hero banner, trending, popular, and new release sections.
 
